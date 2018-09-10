@@ -19,6 +19,7 @@ E. Had difficulty getting the local sql database to work with node.js and realiz
 Improvised steps
 
 F. Found Plotly https://plot.ly/ through searching online and set up their Falcon SQL Client. The free version lets you connect your SQL database to their website and run queries. Once you get connected, their website makes it easy to try multiple ways to display data! You can then share the results through website links or images.
+G. Link to the graph I made - didn't turn out the way I wanted, but I know now what to fix: https://plot.ly/~northyg/4/#plot
 
 What I learned:
 
